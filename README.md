@@ -4,6 +4,7 @@ This is a repo documenting my code learning journey and GitHub exploits.
 
 Aspriations include:
 
+- Learning what GitHub is / does and how to use it
 - Learning Python
 - Developing viable and functional systems and tools
 - Developing my own InfoSec supporting tools, starting with an interactive GRC tool
